@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <link rel="icon" href="/AP_favicon.ico" />
+        <link rel="icon" href="/favicon2.ico" />
         <title>Portfolio | Aditya Pateriya</title>
         <meta name="description" content="Welcome to the portfolio of Aditya Pateriya." />
         
