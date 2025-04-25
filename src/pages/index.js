@@ -23,14 +23,14 @@ export default function Home() {
         <Layout className='pt-0 md:pt-16 sm:pt-8'>
           <div className='flex items-center justify-between w-full lg:flex-col'>
             <div className='w-1/2 md:w-full'>
-               <Image src={profilePic} alt='AdityaPateriya' className='rounded-full mt-3 lg:hidden md:inline-block md:w-full' width={450} height={450} 
+               <Image src={profilePic} alt='AdityaPateriya' className='rounded-full mt-3 lg:hidden md:inline-block md:w-full md:-mt-40' width={450} height={450} 
                priority
                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 50vw"
                />
             </div>
             <div className='w-1/2 flex flex-col items-center self-center lg:w-full lg:text-center'>
               <AnimatedText text='Mastering Code and Algorithms Bridging Web Development with AI
-              ' className='!text-5xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl'/>
+              ' className='mt-6 !text-5xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl'/>
               <p className='my-4 text-base font-medium md:text-sm sm:text-xs'>
               With a deep love for Web Development and a knack for Data Structures & Algorithms, I'm driven to innovate and 
               create impactful solutions that redefine possibilities in today's digital landscape
