@@ -22,6 +22,8 @@ const CustomLink = memo(({ href, title, className = "" }) => {
         </Link>
     );
 });
+// Add displayName
+CustomLink.displayName = "CustomLink";
 
 const CustomMobileLink = memo(({ href, title, className = "", toggle }) => {
     const router = useRouter();
@@ -44,6 +46,8 @@ const CustomMobileLink = memo(({ href, title, className = "", toggle }) => {
         </button>
     );
 });
+// Add displayName
+CustomMobileLink.displayName = "CustomMobileLink";
 
 const Navbar = () => {
     const [mode, setMode] = useThemeSwitcher();

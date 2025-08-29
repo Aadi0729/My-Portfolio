@@ -11,6 +11,7 @@ import project4 from '../../public/images/projects/groceryappimg.png'
 import project5 from '../../public/images/projects/elearnig.png'
 import project6 from '../../public/images/projects/agnirvareportimg.png'
 import project7 from '../../public/images/projects/Hire Hub.png'
+import project9 from '../../public/images/projects/ResumeATSTracker.png'
 
 import { motion } from "framer-motion"
 import TransitionEffect from '@/components/TransitionEffect'
@@ -193,6 +194,20 @@ const Projects = () => {
 
                                 link="https://edupredict.onrender.com/"
                                 github="https://github.com/Aadi0729/ML-Projects"
+                                type="Featured Project"
+
+                            />
+                        </div>
+
+                        <div className='col-span-12'>
+                            <FeaturedProject
+
+                                title="𝗥𝗲𝘀𝘂𝗺𝗲 𝗔𝗧𝗦 𝗧𝗿𝗮𝗰𝗸𝗲𝗿"
+                                img={project9}
+                                summary="An AI-powered Resume Analyzer that simulates the behavior of an HR professional and an ATS (Applicant Tracking System) to evaluate your resume against a given job description using LLMs (Google Gemini 1.5 Flash)."
+
+                                link="https://github.com/Aadi0729/ATS-Tracking-LLM-Project"
+                                github="https://github.com/Aadi0729/ATS-Tracking-LLM-Project"
                                 type="Featured Project"
 
                             />

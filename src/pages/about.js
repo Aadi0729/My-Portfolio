@@ -51,7 +51,7 @@ const about = () => {
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                 <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
                 <p className='font-medium'>
-                👋Hello! I'm Aditya Pateriya, a driven and detail-oriented Computer Science student seeking opportunities to apply theoretical knowledge and practical skills in a dynamic professional environment.
+                👋Hello! I&apos;m Aditya Pateriya, a driven and detail-oriented Computer Science student seeking opportunities to apply theoretical knowledge and practical skills in a dynamic professional environment.
                 </p>
                 <p className='my-4 font-medium'>
                 Strong Problem-Solving Abilities, My experience in algorithm design and data structures has honed my ability to 
