@@ -1,10 +1,12 @@
-# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi0729&show_icons=true&theme=radical)
 
-This repository contains starter code for Portfolio website created using NextJs. <br />
+![GitHub stars](https://img.shields.io/github/stars/Aadi0729/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/Aadi0729/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/Aadi0729.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+
+This repository contains code for Portfolio website created using NextJs. <br />
 
 For Demo and Final Code checkout following link👇: <br />
 [Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
