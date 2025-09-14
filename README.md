@@ -1,7 +1,5 @@
 # Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi0729&show_icons=true&theme=radical)
-
 ![GitHub stars](https://img.shields.io/github/stars/Aadi0729/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/Aadi0729/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/Aadi0729.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
@@ -9,15 +7,11 @@
 This repository contains code for Portfolio website created using NextJs. <br />
 
 For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Yw7yWHigGKI <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
+[Nextjs Portfolio Website](https://aditya-pateriya-portfolio.vercel.app/) <br />
 
 ### Images of The Portfolio Website:
 
-![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
+![Nextjs Portfolio Website](![Img 2](https://github.com/user-attachments/assets/918bd2b2-5f19-4ca1-9a16-418112589634))
 ![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
 ![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
 ![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
