@@ -7,7 +7,7 @@
 This repository contains code for Portfolio website created using NextJs. <br />
 
 For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://aditya-pateriya-portfolio.vercel.app/) <br />
+[Portfolio Website](https://aditya-pateriya-portfolio.vercel.app/) <br />
 
 ### Images of The Portfolio Website:
 
