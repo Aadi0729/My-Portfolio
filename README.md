@@ -12,14 +12,11 @@ For Demo and Final Code checkout following link👇: <br />
 ### Images of The Portfolio Website:
 
 ![Img 2](https://github.com/user-attachments/assets/918bd2b2-5f19-4ca1-9a16-418112589634)
-![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
-
+![Img 1](https://github.com/user-attachments/assets/25ce19da-10f4-4a7a-bdcf-ac5b7eb71c91)
+![Img 3](https://github.com/user-attachments/assets/92e666ce-652d-4b5f-8a16-18a3442cb835)
+![Img 4](https://github.com/user-attachments/assets/4e16f75e-f469-4196-98a0-386327cea7ec)
+![Img 5](https://github.com/user-attachments/assets/3079a37e-f9da-4907-bf9a-fb556fe5b2fa)
+![Img 6](https://github.com/user-attachments/assets/f53c390f-3419-48e4-b5a0-c5cfde4be6cc)
 
 ### Resources Used in This Project
 
