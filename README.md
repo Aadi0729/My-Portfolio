@@ -11,7 +11,7 @@ For Demo and Final Code checkout following link👇: <br />
 
 ### Images of The Portfolio Website:
 
-![Nextjs Portfolio Website](![Img 2](https://github.com/user-attachments/assets/918bd2b2-5f19-4ca1-9a16-418112589634))
+![Img 2](https://github.com/user-attachments/assets/918bd2b2-5f19-4ca1-9a16-418112589634)
 ![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
 ![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
 ![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
