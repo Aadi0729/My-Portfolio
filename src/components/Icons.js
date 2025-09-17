@@ -34,6 +34,23 @@ export const SkypeIcon = ({ className, ...rest }) => (
     </svg>
   );
   
+ export const HashnodeIcon = ({ className, ...rest }) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1em"
+    height="1em"
+    viewBox="0 0 337 337"
+    {...rest}
+    className={`w-full h-auto ${className}`}
+  >
+    <path
+      d="M168.5 0L337 168.5 168.5 337 0 168.5 168.5 0z"
+      fill="#2962FF"
+    />
+    <circle cx="168.5" cy="168.5" r="67.4" fill="white" />
+  </svg>
+);
+
 
 export const TwitterIcon = ({ className, ...rest }) => (
   <svg

@@ -2,7 +2,7 @@ import Link from 'next/link'
 import React, { memo, useState } from 'react'
 import Logo from './Logo'
 import { useRouter } from 'next/router'
-import { TwitterIcon, GithubIcon, LinkedInIcon, SkypeIcon, SunIcon, MoonIcon } from './Icons'
+import { TwitterIcon, GithubIcon, LinkedInIcon, HashnodeIcon, SunIcon, MoonIcon } from './Icons'
 import { motion } from "framer-motion"
 import useThemeSwitcher from './useThemeSwitcher'
 
@@ -97,12 +97,12 @@ const Navbar = () => {
                     >
                         <LinkedInIcon />
                     </motion.a>
-                    <motion.a href="https://join.skype.com/invite/qDgwqQKHDiXE" target={"_blank"}
+                    <motion.a href="https://hashnode.com/@adityapateriya" target={"_blank"}
                         className='w-6 mx-3 bg-light rounded-full'
                         whileHover={{ y: -2 }}
                         whileTap={{ scale: 0.9 }}
                     >
-                        <SkypeIcon />
+                        <HashnodeIcon />
                     </motion.a>
 
                     <button
@@ -155,12 +155,12 @@ const Navbar = () => {
                             >
                                 <LinkedInIcon />
                             </motion.a>
-                            <motion.a href="https://skype.com" target={"_blank"}
+                            <motion.a href="https://hashnode.com/@adityapateriya" target={"_blank"}
                                 className='w-6 mx-3 bg-light rounded-full sm:mx-1'
                                 whileHover={{ y: -2 }}
                                 whileTap={{ scale: 0.9 }}
                             >
-                                <SkypeIcon />
+                                <HashnodeIcon />
                             </motion.a>
 
                             <button
