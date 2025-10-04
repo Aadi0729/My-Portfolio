@@ -4,6 +4,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import React, { useRef } from 'react'
+import article0 from "../../public/images/articles/Oracle1.jpg"
 import article1 from "../../public/images/articles/AWScert.jpeg"
 import article2 from "../../public/images/articles/agnirvacert.jpeg"
 import article3 from "../../public/images/articles/dataanalysis.jpeg"
@@ -104,6 +105,13 @@ const certifications = () => {
         <Layout className='pt-16'>
           <AnimatedText text="Recognized Certifications and Credentials!" className='mb-16 lg:!text-7xl sm:mb-8 sm:!text-6xl xs:!text-4xl' />
           <ul className='grid grid-cols-2 gap-16 lg:gap-8 md:grid-cols-1 md:gap-y-16'>
+
+            <FeaturedCertificate
+              title="OCI Foundations Associate"
+              summary="Completed the Oracle Cloud Infrastructure (OCI) Foundations Associate certification, gaining hands-on experience with cloud fundamentals, networking, compute, storage & databases, security, and cost management. Completed guided labs deploying and managing compute, storage, and networking resources."
+              link="https://www.linkedin.com/feed/update/urn:li:activity:7380134866413256704/"
+              img={article0}
+            />
             <FeaturedCertificate
               title="Naukri Campus Challenge - 2024"
               summary="Participated in India's premier national-level skill competition.
@@ -169,6 +177,14 @@ Gained expertise in algorithms, problem-solving, and efficient coding practices.
           </ul>
           <h2 className='font-bold text-4xl w-full text-center my-16 mt-32'>All Certification</h2>
           <ul>
+
+            <Certificate
+              title="OCI Foundations Associate"
+              date="October 4, 2025"
+              link="https://www.linkedin.com/feed/update/urn:li:activity:7380134866413256704/"
+              img={article0}
+            />
+
             <Certificate
               title="Naukri Campus Young Turks Challenge"
               date="October 11, 2024"
