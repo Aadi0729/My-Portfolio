@@ -18,12 +18,6 @@ Check out my Portfolio Website 👉 [![portfolio](https://img.shields.io/badge/P
 ![Img 6](https://github.com/user-attachments/assets/f53c390f-3419-48e4-b5a0-c5cfde4be6cc)
 ![Img 9](https://github.com/user-attachments/assets/dbcb4758-a840-49bb-9128-414db32f7943)
 
-
-### External Libraries used in this project:
-
-- [framer-motion](https://www.framer.com/motion/) <br />
-- [Tailwind css](https://tailwindcss.com/) <br />
-
 ## 📬 Contact:
 
 For any questions, suggestions, or collaboration opportunities, feel free to reach out:
