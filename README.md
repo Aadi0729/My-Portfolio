@@ -11,8 +11,8 @@ For Demo and Final Code checkout following link👇: <br />
 
 ### Images of The Portfolio Website:
 
-![Img 2](https://github.com/user-attachments/assets/918bd2b2-5f19-4ca1-9a16-418112589634)
-![Img 1](https://github.com/user-attachments/assets/25ce19da-10f4-4a7a-bdcf-ac5b7eb71c91)
+![Img 1](https://github.com/user-attachments/assets/a42bf6e3-2d34-42d7-889e-c7dc63ba3fcd)
+![Img 2](https://github.com/user-attachments/assets/a0d842d7-6b50-46dd-a828-07922d7ea2a6)
 ![Img 3](https://github.com/user-attachments/assets/92e666ce-652d-4b5f-8a16-18a3442cb835)
 ![Img 4](https://github.com/user-attachments/assets/4e16f75e-f469-4196-98a0-386327cea7ec)
 ![Img 5](https://github.com/user-attachments/assets/3079a37e-f9da-4907-bf9a-fb556fe5b2fa)
