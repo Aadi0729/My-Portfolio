@@ -20,7 +20,7 @@ Check out my Portfolio Website 👉 [![portfolio](https://img.shields.io/badge/P
 
 ## 📬 Contact:
 
-For any questions, suggestions, or collaboration opportunities, feel free to reach out:
+For any questions, suggestions or collaboration opportunities, feel free to reach out:
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapateriya7986@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pateriya7781/)
