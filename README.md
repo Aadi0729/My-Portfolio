@@ -1,9 +1,5 @@
 # Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
 
-![GitHub stars](https://img.shields.io/github/stars/Aadi0729/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/Aadi0729/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/Aadi0729.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
-
 ![GitHub stars](https://img.shields.io/github/stars/Aadi0729/My-Portfolio?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/Aadi0729/My-Portfolio?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/Aadi0729.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
