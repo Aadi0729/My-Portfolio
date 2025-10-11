@@ -8,6 +8,14 @@ This repository contains code for Portfolio website created using NextJs. <br />
 
 Check out my Portfolio Website 👉 [![portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=flat-square&logo=briefcase&logoColor=white)](https://aditya-pateriya-portfolio.vercel.app/)
 
+<p style="display: flex; align-items: center;">
+  Check out my Portfolio 
+  <a href="https://aditya-pateriya-portfolio.vercel.app/" style="margin-left: 8px;">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=flat-square&logo=briefcase&logoColor=white" alt="portfolio"/>
+  </a>
+</p>
+
+
 
 ### Images of The Portfolio Website:
 
