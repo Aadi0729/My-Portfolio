@@ -1,4 +1,4 @@
-# Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# ✨ My Personal Portfolio & Projects Showcase ✨
 
 ![GitHub stars](https://img.shields.io/github/stars/Aadi0729/My-Portfolio?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/Aadi0729/My-Portfolio?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
