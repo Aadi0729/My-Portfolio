@@ -13,6 +13,8 @@ import article5 from "../../public/images/articles/next24.jpeg"
 import article6 from "../../public/images/articles/technohacks.jpeg"
 import article7 from "../../public/images/articles/Naukri Campus.jpg"
 import article8 from "../../public/images/articles/HackerRank.jpg"
+import article9 from "../../public/images/articles/OCI AI Foundations Associate.jpg"
+
 import { motion, useMotionValue } from "framer-motion"
 import TransitionEffect from '@/components/TransitionEffect'
 
@@ -107,11 +109,19 @@ const certifications = () => {
           <ul className='grid grid-cols-2 gap-16 lg:gap-8 md:grid-cols-1 md:gap-y-16'>
 
             <FeaturedCertificate
+              title="Oracle AI Foundations Associate"
+              summary="Earned the Oracle AI Foundations Associate certification, building a solid foundation in Artificial Intelligence concepts and applications. Gained hands-on experience with Oracle Cloud AI services, exploring machine learning fundamentals, AI use cases, and the integration of AI solutions within OCI."
+              link="https://www.linkedin.com/feed/update/urn:li:activity:7382804616683339777/"
+              img={article9}
+            />
+
+            <FeaturedCertificate
               title="OCI Foundations Associate"
               summary="Completed the Oracle Cloud Infrastructure (OCI) Foundations Associate certification, gaining hands-on experience with cloud fundamentals, networking, compute, storage & databases, security, and cost management. Completed guided labs deploying and managing compute, storage, and networking resources."
               link="https://www.linkedin.com/feed/update/urn:li:activity:7380134866413256704/"
               img={article0}
             />
+
             <FeaturedCertificate
               title="Naukri Campus Challenge - 2024"
               summary="Participated in India's premier national-level skill competition.
@@ -177,6 +187,13 @@ Gained expertise in algorithms, problem-solving, and efficient coding practices.
           </ul>
           <h2 className='font-bold text-4xl w-full text-center my-16 mt-32'>All Certification</h2>
           <ul>
+
+            <Certificate
+              title="Oracle AI Foundations Associate"
+              date="October 11, 2025"
+              link="https://www.linkedin.com/feed/update/urn:li:activity:7382804616683339777/"
+              img={article9}
+            />
 
             <Certificate
               title="OCI Foundations Associate"
